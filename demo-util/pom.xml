@@ -22,7 +22,7 @@
 		<commons.version>3.5</commons.version>
 		<collections.version>3.2.2</collections.version>
 		<collections4.version>4.2</collections4.version>
-		<ant.version>1.10.5</ant.version>
+		<ant.version>1.10.11</ant.version>
 	</properties>
 	
 	<dependencies>
